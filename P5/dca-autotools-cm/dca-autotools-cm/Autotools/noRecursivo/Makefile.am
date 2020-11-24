@@ -1,0 +1,4 @@
+bin_PROGRAMS = hw
+hw_SOURCES = src/hw.c
+
+EXTRA_DIST = AUTHORS ChangeLog NEWS README

@@ -1,0 +1,11 @@
+/home/alu/Descargas/dca-autotools-cm/Cmake/recursivo/build/CMakeFiles/package.dir
+/home/alu/Descargas/dca-autotools-cm/Cmake/recursivo/build/CMakeFiles/rebuild_cache.dir
+/home/alu/Descargas/dca-autotools-cm/Cmake/recursivo/build/CMakeFiles/hw.dir
+/home/alu/Descargas/dca-autotools-cm/Cmake/recursivo/build/CMakeFiles/dist.dir
+/home/alu/Descargas/dca-autotools-cm/Cmake/recursivo/build/CMakeFiles/edit_cache.dir
+/home/alu/Descargas/dca-autotools-cm/Cmake/recursivo/build/CMakeFiles/package_source.dir
+/home/alu/Descargas/dca-autotools-cm/Cmake/recursivo/build/src/CMakeFiles/package.dir
+/home/alu/Descargas/dca-autotools-cm/Cmake/recursivo/build/src/CMakeFiles/hw.dir
+/home/alu/Descargas/dca-autotools-cm/Cmake/recursivo/build/src/CMakeFiles/edit_cache.dir
+/home/alu/Descargas/dca-autotools-cm/Cmake/recursivo/build/src/CMakeFiles/package_source.dir
+/home/alu/Descargas/dca-autotools-cm/Cmake/recursivo/build/src/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,6 @@
+/home/alu/Descargas/dca-autotools-cm/Cmake/noRecursivo/build/CMakeFiles/package.dir
+/home/alu/Descargas/dca-autotools-cm/Cmake/noRecursivo/build/CMakeFiles/rebuild_cache.dir
+/home/alu/Descargas/dca-autotools-cm/Cmake/noRecursivo/build/CMakeFiles/hw.dir
+/home/alu/Descargas/dca-autotools-cm/Cmake/noRecursivo/build/CMakeFiles/dist.dir
+/home/alu/Descargas/dca-autotools-cm/Cmake/noRecursivo/build/CMakeFiles/edit_cache.dir
+/home/alu/Descargas/dca-autotools-cm/Cmake/noRecursivo/build/CMakeFiles/package_source.dir
