@@ -1,0 +1,10 @@
+Para poder ejecutar esta práctica ejecute los siguientes comandos en una terminal (dentro de la carpeta dca-tests):
+
+autoscan
+touch NEWS README
+touch AUTHORS ChangeLog
+autoreconf --force --install
+./configure
+make
+
+Una vez ejecutados todos estos comandos no debería mostrarse ningún error en la pantalla de la terminal.

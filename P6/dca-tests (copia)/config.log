@@ -358,7 +358,6 @@ config.status:862: creating lib/Makefile
 config.status:862: creating test-cxxtest/Makefile
 config.status:862: creating test-boost/Makefile
 config.status:862: creating config.h
-config.status:1043: config.h is unchanged
 config.status:1091: executing depfiles commands
 config.status:1168: cd lib       && sed -e '/# am--include-marker/d' Makefile         | make -f - am--depfiles
 make: Nothing to be done for 'am--depfiles'.
@@ -436,7 +435,7 @@ am_cv_prog_cc_c_o=yes
 ## Output variables. ##
 ## ----------------- ##
 
-ACLOCAL='${SHELL} /home/fran/Escritorio/dca-practicas/P6/Autotools/missing aclocal-1.16'
+ACLOCAL='${SHELL} "/home/fran/Escritorio/dca-practicas/P6/dca-tests (copia)/missing" aclocal-1.16'
 AMDEPBACKSLASH='\'
 AMDEP_FALSE='#'
 AMDEP_TRUE=''
@@ -446,9 +445,9 @@ AM_DEFAULT_V='$(AM_DEFAULT_VERBOSITY)'
 AM_DEFAULT_VERBOSITY='0'
 AM_V='$(V)'
 AR='ar'
-AUTOCONF='${SHELL} /home/fran/Escritorio/dca-practicas/P6/Autotools/missing autoconf'
-AUTOHEADER='${SHELL} /home/fran/Escritorio/dca-practicas/P6/Autotools/missing autoheader'
-AUTOMAKE='${SHELL} /home/fran/Escritorio/dca-practicas/P6/Autotools/missing automake-1.16'
+AUTOCONF='${SHELL} "/home/fran/Escritorio/dca-practicas/P6/dca-tests (copia)/missing" autoconf'
+AUTOHEADER='${SHELL} "/home/fran/Escritorio/dca-practicas/P6/dca-tests (copia)/missing" autoheader'
+AUTOMAKE='${SHELL} "/home/fran/Escritorio/dca-practicas/P6/dca-tests (copia)/missing" automake-1.16'
 AWK='mawk'
 CC='gcc'
 CCDEPMODE='depmode=gcc3'
@@ -475,7 +474,7 @@ LDFLAGS=''
 LIBOBJS=''
 LIBS=''
 LTLIBOBJS=''
-MAKEINFO='${SHELL} /home/fran/Escritorio/dca-practicas/P6/Autotools/missing makeinfo'
+MAKEINFO='${SHELL} "/home/fran/Escritorio/dca-practicas/P6/dca-tests (copia)/missing" makeinfo'
 MKDIR_P='/usr/bin/mkdir -p'
 OBJEXT='o'
 PACKAGE='tporo'
@@ -518,7 +517,7 @@ host_alias=''
 htmldir='${docdir}'
 includedir='${prefix}/include'
 infodir='${datarootdir}/info'
-install_sh='${SHELL} /home/fran/Escritorio/dca-practicas/P6/Autotools/install-sh'
+install_sh='${SHELL} '\''/home/fran/Escritorio/dca-practicas/P6/dca-tests (copia)/install-sh'\'''
 libdir='${exec_prefix}/lib'
 libexecdir='${exec_prefix}/libexec'
 localedir='${datarootdir}/locale'

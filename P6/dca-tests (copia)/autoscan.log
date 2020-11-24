@@ -1,0 +1,22 @@
+autoscan: warning: missing AC_CHECK_HEADER_STDBOOL wanted by: 
+	lib/tporo.cpp:86
+	lib/tporo.cpp:95
+	lib/tporo.cpp:121
+	lib/tporo.cpp:126
+	test-cxxtest/tporo-test.cc:22
+	include/tporo.h:25
+	include/tporo.h:37
+	include/tporo.h:38
+	include/tporo.h:46
+	lib/tporo.cpp:91
+	lib/tporo.cpp:98
+	test-cxxtest/tporo-test.cc:22
+	lib/tporo.cpp:89
+	lib/tporo.cpp:100
+	lib/tporo.cpp:102
+	test-cxxtest/tporo-test.h:21
+	test-cxxtest/tporo-test.h:27
+	test-boost/tporo-test.cc:30
+	test-boost/tporo-test.cc:36
+autoscan: warning: missing AC_PREREQ wanted by: 
+	autoscan
