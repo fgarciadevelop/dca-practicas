@@ -1,0 +1,33 @@
+# Spanish translations for dca-prac package.
+# Copyright (C) 2019 THE dca-prac'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the dca-prac package.
+# nestor <nestor@nestor-virtualbox>, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: dca-prac 9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-09 19:53+0100\n"
+"PO-Revision-Date: 2019-12-09 19:54+0100\n"
+"Last-Translator: nestor <nestor@nestor-virtualbox>\n"
+"Language-Team: Spanish\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/matricula.cpp:72
+#, c-format
+msgid "Enter the age: "
+msgstr "Introducir la edad:"
+
+#: src/matricula.cpp:75
+#, c-format
+msgid "Large Family?: "
+msgstr "Familia Numerosa?"
+
+#: src/matricula.cpp:78
+#, c-format
+msgid "Repeater Student?: "
+msgstr "Estudiante Repetidor?"
